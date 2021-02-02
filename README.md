@@ -1,1 +1,1 @@
-# BIng search API
+# BIng Search API
